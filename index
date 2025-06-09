@@ -124,7 +124,7 @@
   <nav class="navbar text-black p-4">
     <div class="container flex flex-col sm:flex-row justify-between items-center">
       <div class="flex items-center space-x-4 mb-4 sm:mb-0">
-        <img src="https://rayandocharkh.com/wp-content/uploads/2023/08/160-750x512.jpg" alt="Azarbike Logo" class="w-12 h-12 object-cover rounded-full">
+        <img src="https://s6.uupload.ir/files/logo_67s9.jpg" alt="Azarbike Logo" class="w-12 h-12 object-cover rounded-full">
         <a href="/" class="text-2xl font-bold">Azarbike</a>
       </div>
       <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-6 text-center">
@@ -239,7 +239,7 @@
   <footer class="bg-white text-black py-8 border-t border-gray-300">
     <div class="container text-center">
       <div class="flex justify-center items-center space-x-4 mb-4">
-        <img src="https://images.unsplash.com/photo-1593764595296-5a4e8e4f99b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=50&h=50&q=80" alt="Azarbike Logo" class="w-10 h-10 object-cover rounded-full">
+        <img src="https://s6.uupload.ir/files/logo_67s9.jpg" alt="Azarbike Logo" class="w-10 h-10 object-cover rounded-full">
         <h3 class="text-xl font-bold">Azarbike</h3>
       </div>
       <p class="text-gray-600">فروشگاه آنلاین دوچرخه و لوازم جانبی | azarbike.ir</p>
